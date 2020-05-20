@@ -2,9 +2,9 @@
 valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar
 a digitar valores.'''
 
-r = 'Ss'
+r = 'S'
 soma = quant = media = maior = menor = 0
-while r in 'Ss':
+while r in 'S':
     num = int(input('Digite um número: '))
     soma += num
     quant += 1

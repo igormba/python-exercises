@@ -9,4 +9,4 @@ while True:
         break
     s += n
     qt += 1
-print(f'Você digitou {qt} números e a sema entre eles é {s}.')
+print(f'Você digitou {qt} números e a soma entre eles é {s}.')

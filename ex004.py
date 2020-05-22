@@ -1,4 +1,4 @@
-#Crie um script que leia dois numeros e tente mostrar a soma entre eles.
+#Script que leia dois números e mostre a soma entre eles.
 
 print('Escolha dois números, para que sejam somados ao final.')
 n1 = int(input('Escolha o primeiro número:'))

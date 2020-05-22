@@ -6,6 +6,7 @@ Todos os exercícios contidos neste repositorio, foram feitos como desafios prop
 Lista com os enunciados dos desafios:
 
 1 - Escreva "Olá, mundo!" na tela.
+
 2 - Script que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas com o nome digitado.
 3 - Script que leia o dia, mês, e o ano de nascimento de uma pessoa e mostre a data formatada.
 4 - Script que leia dois números e mostre a soma entre eles.

@@ -5,7 +5,7 @@ OBS: Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.'''
 print('=-=' * 5)
 print('BANCO ANDRADE')
 print('=-=' * 5)
-lista = [50, 20, 10, 1]
+lista = [100, 50, 20, 10, 5, 2]
 valor = int(input('Insira o valor que desaja sacar R$ '))
 cont = 0
 while True:
@@ -16,4 +16,4 @@ while True:
     cont += 1
     if valor == 0:
         break
-print('Volte sempre!')
+print('Volte sempre ao Banco Andrade! Tenha um bom dia!')

@@ -1,7 +1,7 @@
 # python-exercises
 Exercícios feitos na linguagem Python.
 
-Todos os exercícios contidos neste repositorio, foram feitos como desafios propostos no curso, que foi ministrado pelo Próf Gustavo Guanabara do Portal Estudonauta.
+Todos os exercícios contidos neste repositorio, foram feitos como desafios proposto no curso, que foi ministrado pelo Próf Gustavo Guanabara do Portal Estudonauta.
 
 Lista com os enunciados dos desafios:
 
@@ -37,7 +37,7 @@ Lista com os enunciados dos desafios:
 
 16 - Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira. Ex: Digite número: 6.127. O número 6.127 tem a parte inteira 6.
 
-17 - 
+17 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 
 18 - 
 

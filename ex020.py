@@ -9,4 +9,4 @@ a4 = str(input('Quarto aluno: '))
 a5 = str(input('Quinto aluno: '))
 lista = [a1, a2, a3, a4, a5]
 ordem = sample(lista, k=5)
-print('A ordem de apresentação escolida, será da seguinte forma: {}'.format(ordem))
+print(f'A ordem de apresentação escolida, será da seguinte forma: {ordem}')

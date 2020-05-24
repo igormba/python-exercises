@@ -1,8 +1,8 @@
-#Crie um programa que leia o nome completo de uma pessoa e mostre:
-#O nome com todas as letras maiúsculas.
-#O nome com todas as letras minúsculas.
-#Quantas letras ao todo (sem considerar espaços).
-#Quantas letras tem o primeiro nome.
+'''Crie um programa que leia o nome completo de uma pessoa e mostre:
+A) O nome com todas as letras maiúsculas.
+B) O nome com todas as letras minúsculas.
+C) Quantas letras ao todo (sem considerar espaços).
+D) Quantas letras tem o primeiro nome.'''
 
 nome = str(input('Informe o seu nome completo: ')).strip()
 print('O seu nome completo é {}.'.format(nome))

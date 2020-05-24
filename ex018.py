@@ -1,9 +1,10 @@
-#Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo
+'''Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.'''
+
 from math import sin, radians, cos, tan
 angulo = float(input('Digite o ângulo: '))
 seno = sin(radians(angulo))
-print('O ângulo de {} tem o SENO de {:.2f}'.format(angulo, seno))
+print(f'O ângulo de {angulo} tem o SENO de {seno:.2f}')
 cosseno = cos(radians(angulo))
-print('O ângulo de {} tem o COSSENO de {:.2f}'.format(angulo, cosseno))
+print(f'O ângulo de {angulo} tem o COSSENO de {cosseno:.2f}')
 tangente = tan(radians(angulo))
-print('O ângulo de {} tem a TANGENTE de {:.2f}'.format(angulo, tangente))
+print(f'O ângulo de {angulo} tem a TANGENTE de {tangente:.2f}')

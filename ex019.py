@@ -8,4 +8,4 @@ a3 = str(input('Terceiro aluno: '))
 a4 = str(input('Quarto aluno: '))
 a5 = str(input('Quinto aluno: '))
 lista = [a1, a2, a3, a4, a5]
-print('O aluno escolhido foi {}'.format(choice(lista)))
+print(f'O aluno escolhido foi {choice(lista)}')

@@ -39,8 +39,19 @@ Lista com os enunciados dos desafios:
 
 17 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 
-18 - 
+18 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 
-19 - 
+19 - Um professor quer sortear um dos seus cinco alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
 
-20 - 
+20 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+21 - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+
+22 - Crie um programa que leia o nome completo de uma pessoa e mostre: A) O nome com todas as letras maiúsculas. B) O nome com todas as letras minúsculas. 
+C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o primeiro nome.
+
+23 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados. Ex: Digite um número: 1834 Unidade: 4 Dezena: 3 Centena: 8 Milhar: 1
+
+24 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+
+25 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.

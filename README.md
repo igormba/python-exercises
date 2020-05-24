@@ -5,7 +5,7 @@
 
 **Lista com os enunciados dos desafios:**
 
-[1 - Escreva "Olá, mundo!" na tela.] (https://github.com/igormba/python-exercises/blob/master/ex001.py)
+1 - Escreva "Olá, mundo!" na tela.
 
 2 - Script que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas com o nome digitado.
 
@@ -55,3 +55,13 @@ C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o pri
 24 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 
 25 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+26 - 
+
+27 - 
+
+28 - 
+
+29 - 
+
+30 - 

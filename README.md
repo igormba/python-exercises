@@ -1,11 +1,11 @@
 # python-exercises
 #### **Exercícios feitos na linguagem Python.**
 
-#### **Todos os exercícios contidos neste repositorio, foram feitos como desafios proposto no curso, que foi ministrado pelo Próf Gustavo Guanabara do Portal Estudonauta.**
+##### **Todos os exercícios contidos neste repositorio, foram feitos como desafios proposto no curso, que foi ministrado pelo Próf Gustavo Guanabara do Portal Estudonauta.**
 
 #### **Lista com os enunciados dos desafios:**
 
-1 - Escreva "Olá, mundo!" na tela.
+1 - Escreva "Olá, mundo!" na tela. (https://github.com/igormba/python-exercises/blob/master/ex001.py)
 
 2 - Script que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas com o nome digitado.
 

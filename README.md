@@ -25,7 +25,7 @@
 
 10 - Crie um programa que leia quanto dinheiro um pessoa tem na carteira e mostre quantos dólares ela pode comprar. Considere o dólar: US$1,00 = R$5,49.
 
-11 - Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessaria para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m2.
+11 - Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessaria para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m.
 
 12 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
@@ -56,12 +56,22 @@ C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o pri
 
 25 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 
-26 - 
+26 - Faça um programa que leia uma frase e pelo teclado e mostre: Quantas vezes aparece a letra "A". Em que posição ela aparece a primeira vez. Em que posição ela aparece a última vez.
 
-27 - 
+27 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza Primeiro= Ana Último= Souza
 
-28 - 
+28 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
-29 - 
+29 - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai curtar R$7,00 por cada Km acima do limite.
 
-30 - 
+30 - Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou IMPAR.
+
+31 - 
+
+32 - 
+
+33 - 
+
+34 - 
+
+35 - 

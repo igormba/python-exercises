@@ -1,3 +1,3 @@
-# Escreva "Olá, mundo!" na tela.
+'''Escreva "Olá, mundo!" na tela.'''
 
 print('Olá, mundo!')

@@ -1,4 +1,4 @@
-# Script que leia o dia, mês, e o ano de nascimento de uma pessoa e mostre a data formatada.
+'''Script que leia o dia, mês, e o ano de nascimento de uma pessoa e mostre a data formatada.'''
 
 nome = input('Qual o seu nome?')
 dia = input('Qual o dia que você nasceu?')

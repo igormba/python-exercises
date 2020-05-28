@@ -1,4 +1,4 @@
-# Escreva um programa que leia um valor em metros e o exiba convertidos em centimentos e milimetros.
+'''Escreva um programa que leia um valor em metros e o exiba convertidos em centimentos e milimetros.'''
 
 print('Informe um número, que informaremos quantos centimentos e milimetros ele possui.')
 metros = float(input('Informe um valor: '))

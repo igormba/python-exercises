@@ -5,7 +5,7 @@ from math import hypot
 CO = float(input('Comprimento do Cateto Oposto: '))
 CA = float(input('Comprimento do Cateto Adjacente: '))
 HI = hypot(CO, CA)
-print('A Hipotenusa vai medir {:.2f}'.format(HI))
+print(f'A Hipotenusa vai medir {HI:.2f}')
 
 
 

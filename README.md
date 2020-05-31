@@ -66,25 +66,25 @@ C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o pri
 
 30 - Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou IMPAR.
 
-31 - 
+31 - Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 para viagens mais longas.
 
-32 - 
+32 - Faça um programa que leia o ano qualquer e informe se ele é BISSEXTO.
 
-33 - 
+33 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 
-34 - 
+34 - Escreva um programa que pergunte o salário de um funcionario e calcule o valor do seu aumento. Para salários superiores a R$1.250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
 
-35 - 
+35 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
-36 - 
+36 - Escreva um programa para aprovar o emprestimo bancario para a compra de uma casa. O programa vai perguntar o valor da casa, o salario do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salario ou então o emprestimo será negado.
 
-37 - 
+37 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: [1] para binário, [2] para octal, [3] para hexadecimal
 
-38 - 
+38 - Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela a mensagem: O primeiro valor é maior. O segundo valor é maior. Não existe valor maior, os dois são iguais.
 
-39 - 
+39 - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade. Se ele ainda vai se alistar ao serviço militar. Se é a hora de se alistar. Se já passou do tempo de alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
-40 - 
+40 - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida. Média abaixo de 5.0: REPROVADO. Média entre 5.0 e 6.9: RECUPERAÇÃO. Média 7.0 ou superior: APROVADO
 
 41 - 
 

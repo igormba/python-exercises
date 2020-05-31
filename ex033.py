@@ -1,4 +1,4 @@
-# Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+'''Faça um programa que leia três números e mostre qual é o maior e qual é o menor.'''
 
 a = int(input('Primeiro valor: '))
 b = int(input('Segundo valor: '))
@@ -13,5 +13,5 @@ if b > a and b > c:
     maior = b
 if c > a and c > b:
     maior = c
-print('O menor valor digitado foi {}.'.format(menor))
-print('O maior valor digitado é {}.'.format(maior))
+print(f'O menor valor digitado foi {menor}.')
+print(f'O maior valor digitado é {maior}.')

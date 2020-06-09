@@ -78,7 +78,7 @@ C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o pri
 
 36 - Escreva um programa para aprovar o emprestimo bancario para a compra de uma casa. O programa vai perguntar o valor da casa, o salario do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salario ou então o emprestimo será negado.
 
-37 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: [1] para binário, [2] para octal, [3] para hexadecimal
+37 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: [1] para binário, [2] para octal, [3] para hexadecimal.
 
 38 - Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela a mensagem: O primeiro valor é maior. O segundo valor é maior. Não existe valor maior, os dois são iguais.
 
@@ -105,3 +105,145 @@ C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o pri
 49 - 
 
 50 - 
+
+51 - 
+
+52 - 
+
+53 - 
+
+54 - Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+
+55 - 
+
+56 - 
+
+57 - 
+
+58 - 
+
+59 - 
+
+60 - 
+
+61 - 
+
+62 - 
+
+63 - 
+
+64 - 
+
+65 - 
+
+66 - 
+
+67 - 
+
+68 - 
+
+69 - 
+
+70 - 
+
+71 - 
+
+72 - 
+
+73 - 
+
+74 - 
+
+75 - 
+
+76 - 
+
+77 - 
+
+78 - 
+
+79 - 
+
+80 - 
+
+81 - 
+
+82 - 
+
+83 - 
+
+84 - 
+
+85 - 
+
+86 - 
+
+87 - 
+
+88 - 
+
+89 - 
+
+90 - 
+
+91 -
+
+92 - 
+
+93 - 
+
+94 - 
+
+95 - 
+
+96 - 
+
+97 - 
+
+98 - 
+
+99 - 
+
+100 - 
+
+101 - Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.
+
+102 - Crie um programa que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+
+103 - Faça um programa que tenha uma função chamada ficha(), que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
+
+104 - Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante ‘a função input() do Python, só que fazendo a validação para aceitar apenas um valor numérico. Ex: n = leiaInt(‘Digite um n: ‘).
+
+105 - Faça um programa que tenha uma função nota() que pode receber várias notas de alunos e vai retornar um dicionario
+com as seguintes informações: - Quantidade de notas, - A maior nota, - A menor nota, - A média da turma, - A situação (Opcional).
+Adicione também as docstrings da função.
+
+106 - Faça um mini-sistema que utilize o Interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra ‘FIM’, o programa se encerrará. Importante: use cores.
+
+107 - Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
+
+108 - 
+
+109 - 
+
+110 - 
+
+111 - 
+
+112 - 
+
+113 - 
+
+114 - 
+
+115 - 
+
+116 - 
+
+117 - 
+
+118 - 
+
+119 - 
+
+120 - 

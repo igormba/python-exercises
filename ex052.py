@@ -1,4 +1,4 @@
-#Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+'''Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.'''
 
 num = int(input('Digite um número: '))
 tot = 0
@@ -8,8 +8,8 @@ for c in range(1, num + 1):
         tot += 1
     else:
         print('\033[31m', end=' ')
-    print('{} '.format(c), end=' ')
-print('\n\033[m O número {} foi divisil {} vezes'.format(num, tot))
+    print(f'{c} ', end=' ')
+print(f'\n\033[m O número {num} foi divisil {tot} vezes')
 if tot == 2:
     print('E por isso, ele é um número primo.')
 else:

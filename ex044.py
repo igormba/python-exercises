@@ -1,8 +1,4 @@
-# Elabore um programa que calcule o valor de um produto, considerando o seu preço normal e condições de pagamento:
-# A vista dinheiro/cheque: 10% de desconto
-# A vista no cartão: 5% de desconto
-# Em até 2x no cartão: Preço normal
-# 3x ou mais no cartão: 20% de juros
+'''Elabore um programa que calcule o valor de um produto, considerando o seu preço normal e condições de pagamento: A vista dinheiro/cheque: 10% de desconto, A vista no cartão: 5% de desconto, em até 2x no cartão: Preço normal, 3x ou mais no cartão: 20% de juros.'''
 
 from time import sleep
 print('-=-' * 6)

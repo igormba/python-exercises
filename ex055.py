@@ -3,7 +3,7 @@
 maior = 0
 menor = 0
 for p in range(1,6):
-    peso = float(input('Qual o peso da {} pessoa? '.format(p)))
+    peso = float(input(f'Qual o peso da {p} pessoa? '))
     if p == 1:
         maior = peso
         menor = peso
@@ -12,5 +12,5 @@ for p in range(1,6):
             maior = peso
         if peso < menor:
             menor = peso
-print('O maior peso lido foi de {}Kg'.format(maior))
-print('O menor peso lido foi o de {}kg'.format(menor))
+print(f'O maior peso lido foi de {maior}Kg')
+print(f'O menor peso lido foi o de {menor}kg')

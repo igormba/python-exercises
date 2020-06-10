@@ -47,8 +47,7 @@
 
 21 - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 
-22 - Crie um programa que leia o nome completo de uma pessoa e mostre: A) O nome com todas as letras maiúsculas. B) O nome com todas as letras minúsculas. 
-C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o primeiro nome.
+22 - Crie um programa que leia o nome completo de uma pessoa e mostre: A) O nome com todas as letras maiúsculas. B) O nome com todas as letras minúsculas. C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o primeiro nome.
 
 23 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados. Ex: Digite um número: 1834 Unidade: 4 Dezena: 3 Centena: 8 Milhar: 1
 
@@ -58,7 +57,7 @@ C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o pri
 
 26 - Faça um programa que leia uma frase e pelo teclado e mostre: Quantas vezes aparece a letra "A". Em que posição ela aparece a primeira vez. Em que posição ela aparece a última vez.
 
-27 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza Primeiro= Ana Último= Souza
+27 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza Primeiro= Ana Último= Souza.
 
 28 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
@@ -86,35 +85,36 @@ C) Quantas letras ao todo (sem considerar espaços). D) Quantas letras tem o pri
 
 40 - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida. Média abaixo de 5.0: REPROVADO. Média entre 5.0 e 6.9: RECUPERAÇÃO. Média 7.0 ou superior: APROVADO
 
-41 - 
+41 - # A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade: Até 9 anos: MIRIM, até 14 anos: INFANTIL, até 19 anos: JUNIOR, até 20 anos: SENIOR, acima: MASTER
 
-42 - 
+42 - Refaça o desafio 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado: Equilátero: Todos os lados iguais, Isósceles: Dois lados iguais, Escaleno: Todos os lados diferentes.
 
-43 - 
+43 - Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo: Abaixo de 18.5: Abaixo do peso, Entre 18.5 e 25: Peso ideal, 25 até 30: Sobrepeso, 30 até 40: Obesidade, Acima de 40: Obesidade mórbida.
 
-44 - 
+44 - Elabore um programa que calcule o valor de um produto, considerando o seu preço normal e condições de pagamento: A vista dinheiro/cheque: 10% de desconto, A vista no cartão: 5% de desconto, em até 2x no cartão: Preço normal, 3x ou mais no cartão: 20% de juros.
 
-45 - 
+45 - Crie um programa que faça o computador jogar Jokenpô com você.
 
-46 - 
+46 - Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artificio, indo de 10 até 0, com
+uma pausa de 1 segundo entre eles.
 
-47 - 
+47 - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 
-48 - 
+48 - Faça um programa que calcule a soma entre todos os números impares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 
-49 - 
+49 - Rafaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
-50 - 
+50 - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, desconsidere-o.
 
-51 - 
+51 - Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
 
-52 - 
+52 - Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 
-53 - 
+53 - Crie um programa que leia uma frase qualquer e diga se ela é um palindromo, desconsiderando os espaços.
 
 54 - Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
 
-55 - 
+55 - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
 
 56 - 
 
@@ -246,4 +246,4 @@ Adicione também as docstrings da função.
 
 119 - 
 
-120 - 
+120 -

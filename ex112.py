@@ -1,3 +1,7 @@
-'''Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada
-leiaDinheiro() que seja capaz de funcionar como função input(), mas com uma validação de dados para aceitar apnas valores
-que sejam monetários.'''
+'''Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função imputa(), mas com uma validação de dados para aceitar apenas valores que seja monetários.'''
+
+from modulos import moeda
+from modulos import dado 
+
+preco = dado.leiaDinheiro(('Informe o preço: R$ '))
+moeda.resumo(preco, 15, 10)

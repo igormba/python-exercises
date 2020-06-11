@@ -116,55 +116,71 @@ uma pausa de 1 segundo entre eles.
 
 55 - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
 
-56 - 
+56 - Desenvolva um programa que leia o nome, idade, sexo de 4 pessoas. No final do programa, mostre: - A média de idade do grupo, - Qual é nome do homem mais velho, - Quantas mulheres têm menos de 20 anos.
 
-57 - 
+57 - Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores M ou F. Caso esteja errado, peça a digitação
+novamente até ter um valor correto.
 
-58 - 
+58 - Melhore o jogo do Desafio 28 onde o computador vai 'pensar' em um número entre 0 e 10. Só que agora o jogador vai
+ tentar adivinhar até acertar, mostrando no final quantos palpites foram necessarios para vencer.
 
-59 - 
+59 - Crie um programa que leia dois valores e mostre um menu na tela: [1] Somar [2] Multiplicar [3] Maior [4] Novos números 
+[5] Sair do Programa. Seu programa deverá realizar a operação solicitada em cada caso.
 
-60 - 
+60 - Faça um programa que leia um número qualquer e mostre o seu fatorial. Ex: 5! = 5x4x3x2x1 = 120'
 
-61 - 
+61 - Refaça o DASAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão
+usando a estrutura while.
 
-62 - 
+62 - Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando
+ele disser que quer mostrar os termos.
 
-63 - 
+63 - Escreva um progrma que leia um n inteiro qualquer e mostra na tela os n primeiros elementos de uma sequencia de Fibonacci.
+Ex: 0 1 1 2 3 5 8
 
-64 - 
+64 - Crie um programa que leia vários números inteiros pelo teclado. O programa só vai para quando o usuário digitar o valor
+999, que é a condição de parada. No final, mostre quantos números foram digitados e qual é a soma entre eles (desconsiderando o flag)
 
-65 - 
+65 - Crie um progrma que leia vários números inteiros pelo teclado. No final da execusão, mostre a média entre todos os
+valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar
+a digitar valores.
 
-66 - 
+66 - Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor
+999, que é a condição de parada. No final, mostre quantos números foram digitados e qual é a soma entre eles, desconsiderando
+a flag.
 
-67 - 
+67 - Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário.
+O programa será interrompido quando o número digitado for negativo.
 
-68 - 
+68 - Faça um programa que jogue PAR ou IMPAR com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando
+o total de vitórias consecutivas que ele conquistou no final do jogo.
 
-69 - 
+69 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre: A) Quantas pessoas tem mais de 18 anos. B) Quantos homens foram cadastrados.
+C) Quantas mulheres tem mais de 20 anos.
 
-70 - 
+70 - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar.
+No final, mostre: A) Qual é o total gasto na compra. B) Quantos produtos custam mais de R$1000. C) Qual é o nome do produto mais barato.
 
-71 - 
+71 - Crie um programa que simule o funcionamento de um caixa eletrônico. No inicio, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor será entregue. OBS: Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
-72 - 
+72 - Crie um progrma que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero a vinte. Seu programa deverá ler um número pelo teclado(entre 0 e 20) e mostrá-lo por extenso.
 
-73 - 
+73 - Crie uma tupla preenchida com os 20 primeiros colocados da tabela do Campeonato Brasileiro de Futebol, na ordem de
+colocação. Depois mostre: A) Apenas os 5 primeiros colocados. B) Os últimos 4 colocados da tabela. C) Uma lista com os times em ordem alfabética. D) Em que posição na tabela está o time da Chapecoense.
 
-74 - 
+74 - Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
 
-75 - 
+75 - Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: A) Quantas vezes apareceu o valor 9. B) Em que posição foi digitado o primeiro valor 3. C) Quais foram os números pares.
 
-76 - 
+76 - Crie um programa que tenha uma tupla única com nome de produtos e seus respectivos preços na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 
-77 - 
+77 - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
 
-78 - 
+78 - Faça um programa que leia 5 valores númericos e guarde-os em uma lista. No final, mostre qual foi o valor maior e o menor valor digitado e as suas respectivas posições
 
-79 - 
+79 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
-80 - 
+80 - Crie um programa onde o usuário possa digitar 5 valores numéricos e cadastre-os em uma lista, já na posição correta de inserção. No final, mostre a lista ordenada na tela.
 
 81 - 
 
@@ -232,18 +248,8 @@ Adicione também as docstrings da função.
 
 112 - Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função imputa(), mas com uma validação de dados para aceitar apenas valores que seja monetários.
 
-113 - 
+113 - Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
 
-114 - 
+114 - Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
 
-115 - 
-
-116 - 
-
-117 - 
-
-118 - 
-
-119 - 
-
-120 -
+115 - Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo de texto simples. O sistema só vai ter 2 opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.

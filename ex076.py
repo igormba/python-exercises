@@ -1,5 +1,4 @@
-'''Crie um programa que tenha uma tupla única com nome de produtos e seus respectivos preços na sequência.
-No final, mostre uma listagem de preços, organizando os dados em forma tabular.'''
+'''Crie um programa que tenha uma tupla única com nome de produtos e seus respectivos preços na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.'''
 
 lista = ('Lápis', 1.80, 'Borracha', 2.30, 'Caderno', 18.90, 'Estojo', 39, 'Compasso', 9.90, 'Mochila', 300, 'Canetas', 9.99, 'Livros', 99.99)
 

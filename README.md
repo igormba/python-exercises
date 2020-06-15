@@ -182,45 +182,48 @@ colocação. Depois mostre: A) Apenas os 5 primeiros colocados. B) Os últimos 4
 
 80 - Crie um programa onde o usuário possa digitar 5 valores numéricos e cadastre-os em uma lista, já na posição correta de inserção. No final, mostre a lista ordenada na tela.
 
-81 - 
+81 - Crie um programa que vai ler vários números e coloque-os em uma lista. Depois disso, mostre: A) Quantos números foram digitados. B) A lista de valores ordenada de forma decrescente. C) Se o valor 5 foi digitado e está ou não na lista.
 
-82 - 
+82 - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores impares digitados, respectivamente. Ao final, mostre o conteúdo das Três listas geradas.
 
-83 - 
+83 - Crie um programa onde o usúario digite uma expressão qualquer que use parênteses. Seu programa deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
-84 - 
+84 - Faça um programa qye leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre: A) Quantas pessoas foram cadastradas. B) Uma listagem com as pessoas mais pesadas. C) Uma listagem com as pessoas mais leves.
 
-85 - 
+85 - Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separado os valores pares e impares. No final, mostre os valores pares e impares em ordem crescente.
 
-86 - 
+86 - Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com formatação correta.
 
-87 - 
+87 - Aprimore o desafio anterior, mostrando no final: A) A soma de todos os valores pares digitados. B) A soma dos valores da terceira coluna. C) O maior valor da segunda linha.
 
-88 - 
+88 - Faça um programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
 
-89 - 
+89 - Crie um programa que leia o nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 
-90 - 
+90 - Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário.
+No final, mostre o conteúdo da estrutura na tela.
 
-91 -
+91 - Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
 
-92 - 
+92 - Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário. Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, o ano em que a pessoa vai se aposentar.
 
-93 - 
+93 - Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
 
-94 - 
+94 - Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre: A) Quantas pessoas foram cadastradas B) A média de idade C) Uma lista com as mulheres D) Uma lista de pessoas com idade acima da média
 
-95 - 
+95 - Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
 
-96 - 
+96 - Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
-97 - 
+97 - Faça um programa que tenha a função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável. Ex: escreva('Olá, mundo!').
 
-98 - 
+98 - Faça um programa que tenha a função chamada contador(), que receba três parâmetros: Inicio, fim e passo e realize a contagem. Seu programa tem que realizar três contagens através da função criada. A) De 1 até 10, de 1 em 1. B) De 10 até 10, de 2 em 2. C) Uma contagem personalizada.
 
-99 - 
+99 - Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
-100 - 
+100 - Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função
+vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares
+sorteados pela função anterior.
 
 101 - Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.
 

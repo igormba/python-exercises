@@ -1,7 +1,7 @@
 # python-exercises
 **Exercícios feitos na linguagem Python.**
 
-**Todos os exercícios contidos neste repositorio, foram feitos como desafios proposto no curso, que foi ministrado pelo Próf Gustavo Guanabara do Portal Estudonauta.**
+**Todos os exercícios contidos neste repositorio, foram feitos como desafios no curso, que foi ministrado pelo Próf Gustavo Guanabara do Portal Estudonauta.**
 
 **Lista com os enunciados dos desafios:**
 
